@@ -9,6 +9,7 @@ confinement: strict
 apps:
   tree:
     command: tree
+    plugs: [home]
 
 parts:
   tree-src:
