@@ -1,7 +1,7 @@
 name: tree
-version: "1"
-summary: displays an indented directory tree, in color
-description:  Tree is a recursive directory listing command that produces a depth indented
+version: "1.7.0"
+summary: Displays an indented directory tree, in color.
+description: Tree is a recursive directory listing command that produces a depth indented
  listing of files, which is colorized ala dircolors if the LS_COLORS environment
  variable is set and output is to tty.
 confinement: strict
